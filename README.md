@@ -18,3 +18,7 @@ This repo contains **EVERY** one of my [Advent Of Code 2020](https://adventofcod
 ## Licence
 
 MIT
+
+## Runtime
+
+Needs Node.js v12+!
